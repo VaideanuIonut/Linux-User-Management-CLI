@@ -1,0 +1,6 @@
+Raport pentru utilizatorul: Ionut
+-------------------------------
+Număr de fișiere: 0
+Număr de directoare: 1
+Dimensiune totală pe disc: 4.0K
+Generat la: 2025-08-18 15:33:41
