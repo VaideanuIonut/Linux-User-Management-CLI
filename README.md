@@ -21,8 +21,12 @@ Real results of the script can be found in the `output` folder.
 ## Main Menu Options
 ![Main Menu](</Meniul Principal.png>)
 - Registration is done by selecting option 1 from the menu and entering a username, a valid email address, a password, and confirming it.
+![User Register](</Inregistrare utilizator.png>)
 - Login is performed by selecting option 2 from the menu and entering an existing username from the `utilizatori.csv` file (already registered), along with the corresponding user password.
+![User Login](</Login utilizator.png>)
 - Logout is done by selecting option 3 and entering the username.
 - Selecting option 4 displays the list of users who are currently authenticated.
+![List of connected users](</Lista utilizatori conectati.png>)
 - Generating a user report is performed by selecting option 5 and automatically creates the `raport.txt` file after entering the username. This report contains information regarding the number of files, the number of directories of the user, the size they occupy on disk, along with the date and time the report was generated.
+![Report Generation](</Generare raport.png>)
 - Option 6, named `Iesire` (Exit), stops the script from running.
